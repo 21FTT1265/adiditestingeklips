@@ -6,5 +6,7 @@ public class Test {
 		
 		ClassA classA = new ClassA("ABCDEF");
 		System.err.println(classA.getAbc());
+		
+		System.out.println("Hi, it's me. Mario");
 	}
 }
