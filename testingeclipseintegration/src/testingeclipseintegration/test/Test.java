@@ -8,5 +8,7 @@ public class Test {
 		System.err.println(classA.getAbc());
 		
 		System.out.println("Hi, it's me. Mario");
+		
+		System.out.println("die mario");
 	}
 }
