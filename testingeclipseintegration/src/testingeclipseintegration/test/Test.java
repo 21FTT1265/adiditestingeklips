@@ -10,5 +10,7 @@ public class Test {
 		System.out.println("Hi, it's me. Mario");
 		
 		System.out.println("die mario");
+		
+		System.out.println("im first");
 	}
 }
